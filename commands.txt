@@ -4,3 +4,7 @@ git add . - to move all file in one go into staging area
 git commit "to commit the changes with commit message"
 git rm <filename> - to remove file
 git restore <FileName> - to restore deleted file
+git remote -v - show remote repo status
+git push origin master - to push the code on github
+Note:- make sure you add Private access token (PAT) like this before pushing 
+git remote set-url origin https://patcodehere@github.com/gitusernamehere/repo-name.git
