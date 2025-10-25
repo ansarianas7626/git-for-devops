@@ -8,3 +8,5 @@ git remote -v - show remote repo status
 git push origin master - to push the code on github
 Note:- make sure you add Private access token (PAT) like this before pushing 
 git remote set-url origin https://patcodehere@github.com/gitusernamehere/repo-name.git
+git status - to check the status of the file whether staged unstaged commited or not
+git log - show all the logs of the git commits previously
