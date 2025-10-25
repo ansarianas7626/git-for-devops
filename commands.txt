@@ -1,0 +1,6 @@
+git init - to initialize git in a directory
+git add <filename> - to move single file into staging area
+git add . - to move all file in one go into staging area
+git commit "to commit the changes with commit message"
+git rm <filename> - to remove file
+git restore <FileName> - to restore deleted file
