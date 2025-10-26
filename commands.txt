@@ -11,3 +11,5 @@ git remote set-url origin https://patcodehere@github.com/gitusernamehere/repo-na
 git status - to check the status of the file whether staged unstaged commited or not
 git log - show all the logs of the git commits previously
 git pull origin master - if any chnages made from github GUI then it is not reflected to in local repo to match the chnages run this command in local repo
+git log --oneline - it shows logs in one liner short detales for long details prefer git log.
+what is head in git - it is a latest commit on branch
